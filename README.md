@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 My best projects are available at [https://github.com/Gonzalo-Acero]([https://gonzalo-acero.github.io/My-Portfolio/])
+- 👨‍💻 My best projects are available at [Portafolio de Gonzalo](https://gonzalo-acero.github.io/My-Portfolio/)
 
 - 💬 Ask me about **Java, C#, .NET**
 
